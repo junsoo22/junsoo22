@@ -31,10 +31,10 @@
 
 ## 🚀 Projects
 
-### 🔹 AI 기반 프롬프트 최적화 및 공유 서비스
+### 🔹 AI 기반 프롬프트 최적화 및 공유 서비스 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Prompt-Mate/Backend)
 > 사용자가 생성형 AI와 더 효과적으로 상호작용할 수 있도록  
 > **프롬프트 자동 리라이팅, 품질 평가, 개인 라이브러리 및 커뮤니티 공유 기능**을 제공하는 웹 플랫폼
-![Github](https://github.com/Prompt-Mate)
+
 ---
 
 #### 🗓 프로젝트 기간
@@ -54,7 +54,6 @@
 - Redis를 활용한 **Refresh Token 저장 및 관리**
 - 로그아웃·토큰 만료 시 **보안 취약점 개선**
 - GitHub Actions 기반 **CI/CD 파이프라인 구축**
-- Docker Compose를 활용한 **멀티 컨테이너 서비스 구성**
 
 #### 🎯 프로젝트 성과 & 배운 점
 - 인증 흐름 설계를 통해 **보안 관점에서의 백엔드 역할** 이해
