@@ -29,6 +29,40 @@
 
 ---
 
+## 🚀 Projects
+
+### 🔹 AI 기반 프롬프트 최적화 및 공유 서비스
+> 사용자가 생성형 AI와 더 효과적으로 상호작용할 수 있도록  
+> **프롬프트 자동 리라이팅, 품질 평가, 개인 라이브러리 및 커뮤니티 공유 기능**을 제공하는 웹 플랫폼
+
+---
+
+#### 🗓 프로젝트 기간
+- **2024.10.12 ~ 2025.01.24**
+
+#### 🛠 기술 스택
+- **Backend**: Spring Boot · JPA · Spring Security
+- **Auth**: OAuth2 · JWT
+- **Database**: MySQL · Redis
+- **Infra**: AWS EC2 · RDS · Docker Compose
+- **CI/CD**: GitHub Actions
+
+#### 👨‍💻 담당 역할 & 기여
+- 카카오 **OAuth2 소셜 로그인** 구현 및 배포
+- OAuth2 기반 **인증/인가 흐름 설계**
+- **JWT Access / Refresh Token** 인증 구조 구현
+- Redis를 활용한 **Refresh Token 저장 및 관리**
+- 로그아웃·토큰 만료 시 **보안 취약점 개선**
+- GitHub Actions 기반 **CI/CD 파이프라인 구축**
+- Docker Compose를 활용한 **멀티 컨테이너 서비스 구성**
+
+#### 🎯 프로젝트 성과 & 배운 점
+- 인증 흐름 설계를 통해 **보안 관점에서의 백엔드 역할** 이해
+- Docker + EC2 기반 배포 경험으로 **운영 환경에 대한 이해도 향상**
+- CI/CD 자동화를 통해 **배포 안정성과 개발 효율성 개선**
+
+---
+
 ## 📊 Algorithm & GitHub Stats 📊
 
 ![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=kjs201105)
