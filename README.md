@@ -29,29 +29,20 @@
 
 ## 🚀 Projects
 
+### 🔹 AI 뉴스 큐레이션 서비스 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Newgnal/Backend)
+> AI가 금융 뉴스에 감성 점수를 부여해, 기사의 긍/부정을 직관적으로 보여주는 금융 뉴스 플랫폼
+
+#### 🗓 프로젝트 기간
+- **2025.05.24 ~ 2025.07.21**
+
+---
+
 ### 🔹 AI 기반 프롬프트 최적화 및 공유 서비스 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Prompt-Mate/Backend)
 > 사용자가 생성형 AI와 더 효과적으로 상호작용할 수 있도록  
 > **프롬프트 자동 리라이팅, 품질 평가, 개인 라이브러리 및 커뮤니티 공유 기능**을 제공하는 웹 플랫폼
 
----
-
 #### 🗓 프로젝트 기간
-- **2024.10.12 ~ 2025.01.24**
-
-#### 🛠 기술 스택
-- **Backend**: Spring Boot · JPA · Spring Security
-- **Auth**: OAuth2 · JWT
-- **Database**: MySQL · Redis
-- **Infra**: AWS EC2 · RDS · Docker Compose
-- **CI/CD**: GitHub Actions
-
-#### 👨‍💻 담당 역할 & 기여
-- 카카오 **OAuth2 소셜 로그인** 구현 및 배포
-- OAuth2 기반 **인증/인가 흐름 설계**
-- **JWT Access / Refresh Token** 인증 구조 구현
-- Redis를 활용한 **Refresh Token 저장 및 관리**
-- 로그아웃·토큰 만료 시 **보안 취약점 개선**
-- GitHub Actions 기반 **CI/CD 파이프라인 구축**
+- **2025.10.12 ~ 2026.01.24**
 
 ---
 
