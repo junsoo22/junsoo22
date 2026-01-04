@@ -8,8 +8,6 @@
 | 삼성 SDS 알고리즘 특강 | 2025.07~2025.08 |
 | TAVE IT 연합 동아리 15기 Backend | 2025.03~2025.07 |
 | 한양대학교 컴퓨터소프트웨어학과| 2024.03-2026.02 |
-| 명지대학교 컴퓨터공학과 | 2020,03-2023.08 |
-
 
 ## ✨ Tech Stack ✨
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
@@ -20,15 +18,6 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-003F8C?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
----
-
-## 📚 Currently Studying 📚
-- 🌱 **Backend & Security**
-  - Spring Security · JWT · OAuth2
-- ☁️ **Cloud & DevOps**
-  - AWS EC2 · Docker · Docker Compose
-
-
 ---
 
 ## 🛠 Tools 🛠
