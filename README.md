@@ -51,7 +51,7 @@
 ## 🎯 Goals
 - 자격증 취득(정처기, opic)
 - 블로그 작성
-- 해커톤 참
+- 해커톤 참여
 
 ## 📊 Algorithm & GitHub Stats 📊
 
