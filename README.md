@@ -1,6 +1,8 @@
 ![Header Image](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=🐢Hello,%20I'm%20Junsoo🏝️&fontSize=40&fontColor=9AD0FF)
 
 ---
+# Final Vocabulary: 경험
+
 # About Me 
 | 활동 | 기간 |
 |:------:|:----:|
@@ -48,6 +50,12 @@
 
 ---
 
+## 취미
+### ⚽ 축구
+### 📚 책 읽기
+
+---
+
 ## 🎯 Goals
 - 자격증 취득(정처기, opic)
 - 블로그 작성
@@ -62,8 +70,4 @@
 ## 📫 Contact 📫
 - 📧 Email: **kjs201105@naver.com**
 - 💼 GitHub: [github.com/junsoo22](https://github.com/junsoo22)
-- 🌐 **Blog**: [junsoo22.github.io](https://junsoo22.github.io/)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsoo22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
