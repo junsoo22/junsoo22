@@ -61,7 +61,7 @@
 - 블로그 작성
 - 해커톤 참여
 
-## 📊 Algorithm & GitHub Stats 📊
+## 📊 Algorithm 📊
 
 ![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=kjs201105)
 
